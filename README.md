@@ -66,5 +66,5 @@ Live preview: <a href="(https://jamalek12.github.io/Mental-Health-Awareness-Proj
 <li><a href="https://www.pexels.com/photo/smiling-face-hiding-despair-and-agony-12816409/">Bipolar Disorder image</a></li>
 <li><a href="https://www.pexels.com/photo/scenic-view-of-lake-in-forest-247600//">Hero Section image</a></li>
 <li>Assisted with ChatGPT and Copilot (OpenAI)</li>
-<li>Website Reference: <a href="https://getbootstrap.com/">https://getbootstrap.com/</a></li>
+<li>Website Reference: <a href="(https://jakesogreat.github.io/mental-health-awareness/index.html#resources)">Peace of Mind</a></li>
 </ul>

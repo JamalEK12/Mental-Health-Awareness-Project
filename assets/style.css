@@ -124,6 +124,10 @@ body{
   margin-top: 100px;
 }
 
+.card{
+  background-color: #daf7ef;
+}
+
  .css-card{
   width: 325px;
   background-color: #f0f0f0;
@@ -159,4 +163,16 @@ body{
   justify-content: center;
   flex-wrap: wrap;
   margin-top: 100px;
+}
+
+.carousel-height {
+    min-height: 300px;
+}
+
+footer{
+  background-color:#daeaf7 ;
+}
+
+.footer-container{
+  height: 250px;
 }
